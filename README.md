@@ -26,7 +26,7 @@
 
 ## 📫 Me contacter  
 
-📧 Email : frelandbenjamin99@gmail.com 
+📧 Email : benjamin.freland.pro@gmail.com 
 💼 LinkedIn : [Mon LinkedIn](https://www.linkedin.com/in/benjamin-freland-23139527a/)
 
 ---
