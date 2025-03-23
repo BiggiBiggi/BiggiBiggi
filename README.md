@@ -10,7 +10,7 @@
 
 🔹 Frontend : React, HTML, CSS, JavaScript  
 🔹 Backend : Node.js  
-🔹 Base de données : MySQL
+🔹 Base de données : MySQL  
 🔹 Outils : Git, GitHub, VS Code  
 
 ---
